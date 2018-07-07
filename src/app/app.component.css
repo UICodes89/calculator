@@ -1,0 +1,36 @@
+.green{
+    border:1px solid green;
+}
+.gray-border{
+    border:1px solid grey;
+}
+ul{
+    margin:0;
+    padding:0;
+    background-color:#f1f1f1;
+}
+ul li{
+    text-align: center;
+    border-right:1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    
+}
+ul li a{
+    color:#000;
+    text-decoration:none;
+    padding:15px;
+    font-size:22px;
+}
+.output {
+    text-align:center;
+    height:70px;
+    padding:10px;
+    background: #0000007a;
+    overflow:hidden;
+    text-align:right;
+}
+.black-bg{
+    color: #fff;
+    font-size: 22px;
+    padding: 20px;
+}
